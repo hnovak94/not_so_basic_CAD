@@ -6,5 +6,5 @@ Sweeps and Lofts, A Little Practice
 
 ## Sweeps
 
-![alt text](sweeps_engineeringnotebook.JPG)
+![alt text](sweeps_engineeringnotebook.JPEG)
 
