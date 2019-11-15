@@ -6,7 +6,7 @@ Sweeps and Lofts, A Little Practice
 
 ## Sweeps
 
-![sweeps](https://github.com/hnovak94/not_so_basic_CAD/blob/master/media/lofts_engineeringnotebook.JPG)
+![sweeps](https://github.com/hnovak94/not_so_basic_CAD/blob/master/media/sweeps_engineeringnotebook.JPG)
 
 ## Lofts
 ![lofts](https://github.com/hnovak94/not_so_basic_CAD/blob/master/media/lofts_engineeringnotebook.JPG)
